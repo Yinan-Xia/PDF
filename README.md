@@ -30,7 +30,7 @@ bash ./shells/batch_test_latefusion_pdf.sh
 ```
 @inproceedings{cao2024predictive,
   title={Predictive Dynamic Fusion},
-  author={Cao, Bing and Xia, Yinan and Yi, Ding and Zhang, Changqing and Hu, Qinghua},
+  author={Cao, Bing and Xia, Yinan and Ding, Yi and Zhang, Changqing and Hu, Qinghua},
   booktitle={International conference on machine learning},
   year={2024},
   organization={PMLR}
