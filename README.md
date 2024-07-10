@@ -28,7 +28,7 @@ bash ./shells/batch_test_latefusion_pdf.sh
 
 ## Citation
 ```
-@inproceedings{cao2023predictive,
+@inproceedings{cao2024predictive,
   title={Predictive Dynamic Fusion},
   author={Cao, Bing and Xia, Yinan and Yi, Ding and Zhang, Changqing and Hu, Qinghua},
   booktitle={International conference on machine learning},
