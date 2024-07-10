@@ -48,3 +48,6 @@ bash ./shells/batch_test_latefusion_pdf.sh
   organization={PMLR}
 }
 ```
+
+## Acknowledgement
+The code is inspired by [Provable Dynamic Fusion for Low-Quality Multimodal Data](https://github.com/QingyangZhang/QMF).
