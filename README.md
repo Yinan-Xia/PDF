@@ -23,7 +23,7 @@ tqdm==4.65.0
 
   Step 1: Download [food101](https://www.kaggle.com/datasets/gianmarco96/upmcfood101) and [MVSA_Single](https://www.kaggle.com/datasets/vincemarcs/mvsasingle) and put them in the folder *datasets*.
 
-  Step 2: Prepare the train/dev/test splits jsonl files. We follow the [QMF]([https://github.com/facebookresearch/mmbt](https://github.com/QingyangZhang/QMF)) settings and provide them in corresponding folders.
+  Step 2: Prepare the train/dev/test splits jsonl files. We follow the [QMF](https://github.com/QingyangZhang/QMF) settings and provide them in corresponding folders.
 
   Step 3 (optional): If you want use Glove model for Bow model, you can download [glove.840B.300d.txt](https://www.kaggle.com/datasets/takuok/glove840b300dtxt) and put it in the folder *datasets/glove_embeds*. For bert model, you can download [bert-base-uncased](https://huggingface.co/google-bert/bert-base-uncased) and put in the root folder *bert-base-uncased/*.
 
