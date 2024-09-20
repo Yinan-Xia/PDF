@@ -12,7 +12,6 @@ Multimodal fusion is crucial in joint decision-making systems for rendering holi
 ```
 numpy==1.21.6
 Pillow==9.4.0
-Pillow==10.3.0
 pytorch_pretrained_bert==0.6.2
 scikit_learn==1.0.2
 torch==1.11.0+cu113
