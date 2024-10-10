@@ -31,6 +31,7 @@ tqdm==4.65.0
 ```
 bash ./shells/batch_train_latefusion_pdf.sh
 ```
+Tips: at the beginning of training, the output value of the confidence predictor may be minimal when batch size is small, and taking the log may be nan, which can be solved by reducing the learning rate or increasing the weight decay.
 
 ## Test
 ```
