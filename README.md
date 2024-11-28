@@ -40,12 +40,11 @@ bash ./shells/batch_test_latefusion_pdf.sh
 
 ## Citation
 ```
-@inproceedings{cao2024predictive,
+@article{cao2024predictive,
   title={Predictive Dynamic Fusion},
   author={Cao, Bing and Xia, Yinan and Ding, Yi and Zhang, Changqing and Hu, Qinghua},
-  booktitle={The Forty-First International Conference on Machine Learning},
-  year={2024},
-  organization={PMLR}
+  journal={arXiv preprint arXiv:2406.04802},
+  year={2024}
 }
 ```
 
