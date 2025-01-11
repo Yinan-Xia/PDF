@@ -215,7 +215,7 @@ def model_forward(i_epoch, model, args, criterion,optimizer, batch,mode='eval'):
 
 
 def train(args):
-    set_seed(5)
+    set_seed(args.seed)
     args.savedir = os.path.join(args.savedir, args.name)
     os.makedirs(args.savedir, exist_ok=True)
     print(args.df)
