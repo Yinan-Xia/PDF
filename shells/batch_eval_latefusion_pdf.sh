@@ -1,5 +1,5 @@
 #!/bin/bash
-for i in {1..5}
+for i in {1..10}
 do
   for noise in {0.0,5.0,10.0}
   do
@@ -21,7 +21,7 @@ do
   done
 done
 
-# for i in {1..5}
+# for i in {1..10}
 # do
 #   for noise in {0.0,5.0,10.0}
 #   do
